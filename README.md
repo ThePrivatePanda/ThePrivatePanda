@@ -1,16 +1,13 @@
-### Hi there 👋
+Man.
+I need help.
+Please.
+Help me.
+I beg you.
+Help me.
+Seriously.
+[HELP ME](https://github.com/JustAKoala/PyGrinder)
 
-<!--
-**koala9712/koala9712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Also someone who likes to cycle, trade crypto and program- none of which are allowed by my current predicament in life (age and studies hehe)
+and discord keeps changing my username oh god I'm sick of it, it's koala#4288 AS OF NOW
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for coming here and boosting my ego, appreciate it 👍
