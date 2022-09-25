@@ -1,11 +1,6 @@
+Hey! Just yo average 15 y/o good-for-nothing neighbour! <br>
+Previously known as koala, I am now (evidently I hope) The Private Panda, owner of [PrivatePandaCO](https://github.com/PrivatePandaCO). <br><br>
+I've worked on various projects, most of shitcode is open source and now I focus on more advanced closed source projects through my CO. <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThePrivatePanda&label=Profile%20views&color=0e75b6&style=flat" alt="ThePrivatePanda" /> </p>
-
-Heyo! Thanks for coming here and boosting me ego, appreciate it 👍 <br><br>
-I am, koala. Simply. <br>
-I spend my time studying and chasing various aspects of life which catch my eye, such as crypto, coding and cycling (CCC hehe). <br>
-I have a special interest in ~~abusing~~ testing various sytems, with a want to get into ethical hacking.<br><br>
-
-I've just completed a few projects, lookin to complete a few more! <br>
-Anyways, have a look at [my site](https://thekoalaco.in) and help me improve it! <br>
-
-I am always open to new ideas and contributions, to make the world a better place, with a special interest in automation and IoT.
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=ThePrivatePanda&show_icons=true&locale=en&title_color=FFFFFF&text_color=FFFFFF&icons_color=FFFFFF&bg_color=000000&border_color=0500DD&count_private=true)](https://github.com/ThePrivatePanda)
