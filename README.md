@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThePrivatePanda&label=Profile%20views&color=0e75b6&style=flat" alt="ThePrivatePanda" /> </p>
+
 Heyo! Thanks for coming here and boosting me ego, appreciate it 👍 <br><br>
 I am, koala. Simply. <br>
 I spend my time studying and chasing various aspects of life which catch my eye, such as crypto, coding and cycling (CCC hehe). <br>
