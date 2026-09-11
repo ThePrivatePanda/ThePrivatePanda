@@ -15,4 +15,4 @@ Computer science at Cornell, class of 2028. I build a wide range of software: si
 
 Libraries and tools are grouped under [PrivatePandaCO](https://github.com/PrivatePandaCO).
 
-[privatepanda.co](https://privatepanda.co) · [LinkedIn](https://www.linkedin.com/in/parth-mittal-o6) · [parth@privatepanda.co](mailto:parth@privatepanda.co)
+[privatepanda.co](https://privatepanda.co) · [LinkedIn](https://www.linkedin.com/in/parth-mittal-o6) · [meparthmittal@gmail.com](mailto:meparthmittal@gmail.com)
